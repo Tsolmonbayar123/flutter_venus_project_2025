@@ -1,20 +1,3 @@
-class Student {
-  String name;
-  List<int> grades = [];
-Student(this.name,this.grades);
-
-double addGrade (){
-  return grades.add();
-
-  double getAverage (){
-    
-  }
-
-
-}
-
-
-}
 
 void main (){
   int a =1;
